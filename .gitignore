@@ -1,0 +1,18 @@
+# 项目排除路径
+/12.14室内跑数据/
+/12.14室内跑数据2/
+/12.14户外跑数据/
+/RR数据提取/
+/室内RR数据提取/
+/室内训练日志提取/
+/训练日志提取/
+/Polar实验数据/
+/out_1min_SD_results.csv
+/out_2min_SD_results.csv
+/out_3min_SD_results.csv
+/！乳酸阈受试者.xlsx
+*.xls;xlsx;csv
+*.png
+
+
+
